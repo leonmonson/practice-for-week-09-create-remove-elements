@@ -8,15 +8,21 @@ add.addEventListener("click", async () => {
         const url = data.message; // URL of new dog image
 
         /*--------------- Get breed (Hint: Parse from URL) ---------------- */
-        // Your code here
+         constaddelement = () => {
+             constnewelement = document.createelement;
+             document.body.appendchild(new dog);
+          
 
         /*------------ Create new dog card with the url above ------------- */
         /* (use the HTML structure for the current dog image in the index.html
             file to create a new image with the url) */
-        // Your code here
+        constaddelementalt = () => {
+            document.body.innerhtml =src=
+                }
+             window.onload = addelementalt;
 
         /* Add the new dog card as a child to the ul in the .gallery element */
-        // Your code here
+        constaddelememt
 
     } catch (e) {
         console.log("Couldn't fetch dog :(")
@@ -27,7 +33,12 @@ add.addEventListener("click", async () => {
 const removeFirst = document.getElementById("remove-first");
 removeFirst.addEventListener("click", () => {
     /*-------------------- Select the first dog card --------------------- */
-    // Your code here
+const add dog alt = () => first dog;
+    document.body.innerhtml=firstdog;
+}
+window.onload = firstdog;
+
+});
 
     /*-------------------- Remove the first dog card --------------------- */
     // Your code here
@@ -37,8 +48,17 @@ removeFirst.addEventListener("click", () => {
 const removeLast = document.getElementById("remove-last");
 removeLast.addEventListener("click", () => {
     /*-------------------- Select the last dog card ----------------------- */
-    // Your code here
+const last dogg = () => {   
+    last dog = last
 
     /*-------------------- Remove the last dog card ----------------------- */
     // Your code here
 });
+
+
+
+
+
+
+
+
